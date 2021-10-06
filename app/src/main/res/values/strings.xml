@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SuperApp</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="label_power_stats">Power stats</string>
+    <string name="label_smartness">Inteligence</string>
+    <string name="label_strengt">Strenght</string>
+    <string name="label_durability">Durability</string>
+    <string name="label_speed">Speed</string>
+    <string name="label_power">Power</string>
+    <string name="label_combat">Combat</string>
+    <string name="label_bio">Biography</string>
+    <string name="label_work">Work</string>
+    <string name="label_connections">Connections</string>
+    <string name="label_appearance">Appearance</string>
+</resources>
